@@ -2,7 +2,7 @@
 node_modules/
 
 # 忽略 build 目录
-build/
+#build/
 
 # 忽略 .docusaurus 目录
 .docusaurus/
